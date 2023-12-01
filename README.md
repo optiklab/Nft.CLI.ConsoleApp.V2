@@ -11,7 +11,7 @@ Data structures that I have used are strictly linked for the Task. My solution i
 
 I also tried to create the solution to fit the tight deadlines.
 
-In case task would change (or I misunderstood the task), I would also change the solution. For example, if we need data integrity validation, I would probably go with some other ideas (like Merkle Trees used in the industry).
+There are also a few things I skip and maybe return to it later. For example, if we need data integrity validation, I would probably go with some other ideas (like Merkle Trees used in the industry).
 
 # Prerequisites
 
