@@ -1,7 +1,5 @@
 
-# Illuvium NFT console app
-
-## Disclaimer
+# CLI console app to work with NFT Wallet
 
 Data structures that I have used are strictly linked for the Task. My solution is focused on the ability to efficiently execute 3 types of tasks:
 - Persist information about ownership relationshop between imaginary NFT token ids and NFT wallet addresses provided in the task
