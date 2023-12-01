@@ -80,7 +80,7 @@ Wallet 0x3000000000000000000000000000000000000000 holds 2 Tokens:
 0xB000000000000000000000000000000000000000 
 0xC000000000000000000000000000000000000000 
 
->Illuvium.Nft.App -—reset 
+>Illuvium.Nft.App -â€”reset 
 Program was reset 
 
 >Illuvium.Nft.App --wallet 0x3000000000000000000000000000000000000000
@@ -90,7 +90,7 @@ Wallet 0x3000000000000000000000000000000000000000 holds no Tokens
 
 ## For running app
 
-- .NET Core 6.0
+- .NET Core 7.0
 - System.CommandLine (it is still in beta, but it exists for a long time and allow to easily build Command Line tools)
 - Newtonsoft.Json (to work with JSON)
 - Newtonsoft.Json.Schema (to validate JSON Schema - IT'S NOT FREE for production apps)
