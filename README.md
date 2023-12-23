@@ -17,7 +17,7 @@ To build the solution you need to have .NET Core 6.0 SDK installed.
 
 To open and review the source code it's best to have:
 - Visual Studio 2022
-- .NET Core 6.0
+- .NET Core 7.0
 
 # How to run
 
