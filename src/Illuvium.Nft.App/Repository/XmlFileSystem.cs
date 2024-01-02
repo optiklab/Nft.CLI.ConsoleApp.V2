@@ -66,6 +66,7 @@ namespace Illuvium.Nft.App.Repository
         {
             bool result = true;
 
+            // Default XML serializer doesn't support LinkedList, that's why we have to use List<T> and map Dictionaries into List<T> (and then back, during load from file).
             var ser = new TokenStorageSer();
             ser.SerializableNftTokenWalletMap = tokenStorage.NftTokenWalletMap.Select(x => new NftTokenToWalletKeyValueElement { Key = x.Key, Value = x.Value }).ToList();
             ser.SerializableWalletNftTokensMap = tokenStorage.WalletNftTokensMap.Select(x => new WalletToNftTokensKeyValueElement { Key = x.Key, Value = x.Value }).ToList();
