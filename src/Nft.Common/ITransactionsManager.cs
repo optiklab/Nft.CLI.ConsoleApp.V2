@@ -1,4 +1,4 @@
-﻿namespace Illuvium.Nft.Common
+﻿namespace Nft.Common
 {
     public interface ITransactionsManager
     {

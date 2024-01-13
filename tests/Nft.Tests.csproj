@@ -7,8 +7,8 @@
 	</PropertyGroup>
 	
 	<ItemGroup>
-		<ProjectReference Include="..\src\Illuvium.Nft.App\Illuvium.Nft.App.csproj" />
-		<ProjectReference Include="..\src\Illuvium.Nft.Common\Illuvium.Nft.Common.csproj" />
+		<ProjectReference Include="..\src\Nft.App\Nft.App.csproj" />
+		<ProjectReference Include="..\src\Nft.Common\Nft.Common.csproj" />
 	</ItemGroup>
 
 	<ItemGroup>

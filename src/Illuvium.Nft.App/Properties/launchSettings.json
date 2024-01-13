@@ -1,8 +1,0 @@
-{
-  "profiles": {
-    "Illuvium.Nft.App": {
-        "commandName": "Project",
-        "commandLineArgs": "--read-file transactions.json "
-    }
-  }
-}
