@@ -1,0 +1,22 @@
+
+
+#IDEs
+.idea
+
+# Visual Studio and VSCode
+.vs
+obj
+Debug
+Release
+packages
+x64
+vscode
+build
+out
+*.vcxproj.user
+
+# MacOS dependecies
+.DS_Store
+
+# Windows
+Thumbs.db
