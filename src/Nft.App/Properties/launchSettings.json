@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Nft.App": {
+        "commandName": "Project",
+        "commandLineArgs": "--read-file transactions.json "
+    }
+  }
+}
